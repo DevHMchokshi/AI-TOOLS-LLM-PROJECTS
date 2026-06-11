@@ -1,0 +1,3 @@
+id,name,email,role,company,website,linkedin
+lead_201,John Smith,john@example.com,CTO,ExampleCorp,https://example.com,https://linkedin.com/company/examplecorp
+lead_202,Alice Johnson,alice@startup.io,CEO,StartupIO,https://startup.io,https://linkedin.com/company/startupio

@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+crewai[tools]
+pydantic
+chromadb
