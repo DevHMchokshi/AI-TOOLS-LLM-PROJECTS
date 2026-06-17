@@ -1,0 +1,14 @@
+{
+  "target_industries": ["Technology", "SaaS", "E-commerce", "Fintech"],
+  "company_size_min": 10,
+  "company_size_max": 1000,
+  "key_technologies": ["React", "Python", "AWS", "HubSpot", "Salesforce"],
+  "target_roles": ["CTO", "VP of Engineering", "Head of Sales", "CEO"],
+  "pain_points": [
+    "Slow lead response times",
+    "Low email open rates",
+    "Manual data entry",
+    "Lack of personalization in outreach"
+  ],
+  "minimum_qualification_score": 70
+}
